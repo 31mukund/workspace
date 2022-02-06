@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cout<<"My first git file";
+    cout<<"This git file was made by Mukund";
     return 0;
 }
